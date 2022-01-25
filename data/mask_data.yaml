@@ -1,0 +1,7 @@
+train: D:/smart_traffic/yolov5/data/mask/images/train
+val: D:/smart_traffic/yolov5/data/mask/images/val
+
+
+nc: 2
+
+names: ['mask', 'face']
